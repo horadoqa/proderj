@@ -1,0 +1,15 @@
+{
+  "endpoint": "https://www.rj.gov.br/proderj/",
+  "vus": 100,
+  "execution_date": "11/04/2026",
+  "execution_time": "17:15:32",
+  "execution_datetime": "2026-11-04T20:15:32.192Z",
+  "duration": "30s",
+  "total_requests": 1383,
+  "failed_requests": 0,
+  "avg_response_time_ms": 223.32064360882106,
+  "min_response_time_ms": 65.237193,
+  "max_response_time_ms": 3186.040181,
+  "p90_ms": 381.8623528,
+  "p95_ms": 768.9016849999998
+}
